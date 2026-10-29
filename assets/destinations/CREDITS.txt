@@ -1,0 +1,181 @@
+Destination photos from Wikimedia Commons (free licenses - attribution required).
+To replace a photo, overwrite the file with your own image using the SAME filename.
+
+nepal-hero.jpg
+  Title: File:Annapurna South, Himchuli, Machapuchare Himal-3794.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Annapurna_South,_Himchuli,_Machapuchare_Himal-3794.jpg
+  Author: Bijay Chaurasia
+  License: CC BY-SA 4.0
+
+nepal-2.jpg
+  Title: File:Boudhanath stupa, Kathmandu 01.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Boudhanath_stupa,_Kathmandu_01.jpg
+  Author: Bernard Gagnon
+  License: CC BY-SA 4.0
+
+gangtok-hero.jpg
+  Title: File:Tsomgo Lake (Changu Lake) in Gangtok district.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tsomgo_Lake_(Changu_Lake)_in_Gangtok_district.jpg
+  Author: Laluttam
+  License: CC BY-SA 4.0
+
+gangtok-2.jpg
+  Title: File:Dechen Choling Monastery in Sichey area of Gangtok, Gangtok district, East Sikkim 03.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dechen_Choling_Monastery_in_Sichey_area_of_Gangtok,_Gangtok_district,_East_Sikkim_03.jpg
+  Author: Amitabha Gupta
+  License: CC BY 4.0
+
+darjeeling-hero.jpg
+  Title: File:Kanchenjunga range from tea gardens of darjeeling.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kanchenjunga_range_from_tea_gardens_of_darjeeling.jpg
+  Author: Souviknshm
+  License: CC BY-SA 4.0
+
+darjeeling-2.jpg
+  Title: File:Darjeeling Himalayan Railway,toy train (2).jpg
+  Source: https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(2).jpg
+  Author: Syed Sajidul Islam
+  License: CC BY-SA 4.0
+
+manali-hero.jpg
+  Title: File:Solang Valley ,Manali, Himachal Pardes, India.JPG
+  Source: https://commons.wikimedia.org/wiki/File:Solang_Valley_,Manali,_Himachal_Pardes,_India.JPG
+  Author: Harvinder Chandigarh
+  License: CC BY-SA 4.0
+
+manali-2.jpg
+  Title: File:Hadimba Devi Temple Manali.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hadimba_Devi_Temple_Manali.jpg
+  Author: Itsarti
+  License: CC BY-SA 4.0
+
+lachen-lachung-hero.jpg
+  Title: File:Gurudongmar Lake Sikkim, India.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gurudongmar_Lake_Sikkim,_India.jpg
+  Author: Yoghya
+  License: CC BY-SA 4.0
+
+lachen-lachung-2.jpg
+  Title: File:Lachung village and Lachung River valley with Himalayan peaks, North Sikkim, India.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lachung_village_and_Lachung_River_valley_with_Himalayan_peaks,_North_Sikkim,_India.jpg
+  Author: Mananjpatel1996
+  License: CC BY 4.0
+
+yumthang-valley.jpg
+  Title: File:Landscape on the way to Yumthang Valley from Lachung, North Sikkim, India 04.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Landscape_on_the_way_to_Yumthang_Valley_from_Lachung,_North_Sikkim,_India_04.jpg
+  Author: Amitabha Gupta
+  License: CC BY 4.0
+
+himalaya-kanchenjunga.jpg
+  Title: File:Kanchenjunga (7353917138).jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kanchenjunga_(7353917138).jpg
+  Author: shankar s. from Dubai, united arab emirates
+  License: CC BY 2.0
+
+darjeeling-tea.jpg
+  Title: File:Darjeeling tea plantation (7353921512).jpg
+  Source: https://commons.wikimedia.org/wiki/File:Darjeeling_tea_plantation_(7353921512).jpg
+  Author: shankar s. from Dubai, united arab emirates
+  License: CC BY 2.0
+
+pashupatinath-aarti.jpg
+  Title: File:2023 January night aarti at Pashupatinath Temple, Kathmandu 05.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2023_January_night_aarti_at_Pashupatinath_Temple,_Kathmandu_05.jpg
+  Author: Chainwit.
+  License: CC BY-SA 4.0
+
+swayambhunath.jpg
+  Title: File:Swayambhunath temple - an ancient religious architecture of Nepal.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg
+  Author: Nirmal Dulal
+  License: CC BY-SA 4.0
+
+momos.jpg
+  Title: File:Steamed Momos - KOLKATA.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Steamed_Momos_-_KOLKATA.jpg
+  Author: TAPAS KUMAR HALDER
+  License: CC BY-SA 4.0
+
+prayer-flags-sikkim.jpg
+  Title: File:Prayer flags in Agriculture Farm near Khecopalri lake Sikkim India.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prayer_flags_in_Agriculture_Farm_near_Khecopalri_lake_Sikkim_India.jpg
+  Author: dhillan chandramowli
+  License: CC BY-SA 2.0
+
+tiger-hill-sunrise.jpg
+  Title: File:Panorama Kangchenjunga from Darjeeling.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Panorama_Kangchenjunga_from_Darjeeling.jpg
+  Author: Carsten.nebel
+  License: CC BY-SA 3.0
+
+darjeeling-tea-pickers.jpg
+  Title: File:Darjeeling tea processing facility (7168686407).jpg
+  Source: https://commons.wikimedia.org/wiki/File:Darjeeling_tea_processing_facility_(7168686407).jpg
+  Author: shankar s. from Dubai, united arab emirates
+  License: CC BY 2.0
+
+batasia-loop.jpg
+  Title: File:Batasia Loop of Darjeeling Himalayan Railway.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Batasia_Loop_of_Darjeeling_Himalayan_Railway.jpg
+  Author: Vikramjit Kakati
+  License: CC BY-SA 3.0
+
+rohtang-pass.jpg
+  Title: File:Snow Rohtang Range Manali May24 A7CR 00128.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Snow_Rohtang_Range_Manali_May24_A7CR_00128.jpg
+  Author: This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
+
+
+
+Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.
+  License: CC BY-SA 4.0
+
+old-manali.jpg
+  Title: File:Kullu Valley at dawn.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kullu_Valley_at_dawn.jpg
+  Author: UnpetitproleX
+  License: CC BY-SA 4.0
+
+beas-river-kullu.jpg
+  Title: File:Beas Valley - Palchan - Kullu 2014-05-10 (edit).jpg
+  Source: https://commons.wikimedia.org/wiki/File:Beas_Valley_-_Palchan_-_Kullu_2014-05-10_(edit).jpg
+  Author: Original:  Biswarup Ganguly
+Derivative work:  UnpetitproleX
+  License: CC BY 3.0
+
+yumthang-rhododendron.jpg
+  Title: File:Rhododendron niveum, Shingba RS AJT J.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rhododendron_niveum,_Shingba_RS_AJT_J.jpg
+  Author: A. J. T. Johnsingh, WWF-India and NCF
+  License: CC BY-SA 4.0
+
+lachung-monastery.jpg
+  Title: File:Lachung Monastery at Lachung Valley in North Sikkim, India 14.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lachung_Monastery_at_Lachung_Valley_in_North_Sikkim,_India_14.jpg
+  Author: Amitabha Gupta
+  License: CC BY 4.0
+
+phewa-lake-pokhara.jpg
+  Title: File:Sun Set over Phewa Lake.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sun_Set_over_Phewa_Lake.jpg
+  Author: Sanu N
+  License: CC BY-SA 4.0
+
+bhaktapur-durbar-square.jpg
+  Title: File:Bisket Jatra festival 2018 at the Nyatapola temple, Bhaktapur.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bisket_Jatra_festival_2018_at_the_Nyatapola_temple,_Bhaktapur.jpg
+  Author: Nrik kiran
+  License: CC BY-SA 4.0
+
+rumtek-monastery.jpg
+  Title: File:Rumtek Monastery 04.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_04.jpg
+  Author: Bernard Gagnon
+  License: CC BY-SA 4.0
+
+gangtok-mg-marg.jpg
+  Title: File:Bird's eye view of Gangtok City from Ganeshtok.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg
+  Author: Subhrajyoti07
+  License: CC BY-SA 4.0
